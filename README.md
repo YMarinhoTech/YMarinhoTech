@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I’m Yuri Marinho
 
-<!--
-**YMarinhoTech/YMarinhoTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Back-end Junior Developer  
+- 🎓 **Education**:  
+  - Technical Course in Computer Maintenance and Programming 96h
+  - Professional Course in Programming Language 60h
+- ⚡ **Skills**: Python
+- 📫 **Contact**: ichbinmarinho@gmail.com | 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
