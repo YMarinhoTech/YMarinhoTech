@@ -4,7 +4,7 @@
 - 🎓 **Education**:  
   - Technical Course in Computer Maintenance and Programming 96h
   - Professional Course in Programming Language 60h
-- ⚡ **Skills**: Python
+- ⚡ **Skills**: Python, learning HTML CSS and JavaScript
 - 📫 **Contact**: ichbinmarinho@gmail.com | 
 
 <div style="display: inline_block">
