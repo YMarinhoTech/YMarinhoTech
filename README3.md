@@ -24,7 +24,7 @@
 <p align="left">🤿 I am Yuri Marinho.</p>
 <p align="left">☕ I am a junior backend developer in Python language</p>
 <p align="left">📚 Learning more about programming every day</a>.</p>
-<p align="left">🎓 Currently studying at <a href="https://ada.tech/">Anhanguera</a> focused on Python</p>
+<p align="left">🎓 Currently studying at <a href="https://www.anhanguera.com/">Anhanguera</a> focused on Python</p>
 <p align="left">📚 Studying Python, HTML, CSS, and backend best practices.</p>
 <p align="left">📷 I enjoy taking pictures, checking out programming tips, and learning English.</p>
 <p align="left">☕ Outback is my favorite place to eat, watch Friends, and study English.</p>
@@ -61,6 +61,6 @@
 
 ## 📫 Contato / Contact:
 
-📧 Email: marcosfshirafuchi@gmail.com  
+📧 Email: ichbinmarinho@gmail.com  
 💼 LinkedIn: [Yuri Marinho](https://www.linkedin.com/in/ymarinho2025/)  
 📸 Instagram: [@ymarinhotech](https://www.instagram.com/ymarinhotech/)
