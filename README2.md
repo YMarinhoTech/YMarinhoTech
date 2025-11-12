@@ -22,27 +22,27 @@
   
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-kenzo&layout=compact&hide_border=true&title_color=7aa2f7&text_color=7aa2f7&bg_color=0d1117"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ymarinho2025&layout=compact&hide_border=true&title_color=7aa2f7&text_color=7aa2f7&bg_color=0d1117"
       media="(prefers-color-scheme: dark)" />
     <img width="41%" height="195px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-kenzo&layout=compact&hide_border=true&title_color=4b69fd&text_color=4b69fd&bg_color=ffffff"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymarinho2025&layout=compact&hide_border=true&title_color=4b69fd&text_color=4b69fd&bg_color=ffffff"
       alt="Top Langs Light" />
   </picture>
 </div>
 
 <!-- Activity Graph -->
 <picture>
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-kenzo&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-kenzo&bg_color=ffffff&color=4b69fd&line=4b69fd&point=4b69fd&area=true&hide_border=true" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=ymarinho2025&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ymarinho2025&bg_color=ffffff&color=4b69fd&line=4b69fd&point=4b69fd&area=true&hide_border=true" />
 </picture>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavo-kenzo&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ymarinho2025&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <!-- Redes sociais -->
 <div align="center">  
-  <a href="https://www.linkedin.com/in/gustavokenzo/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/ymarinho2025/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div> 
